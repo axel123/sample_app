@@ -1,2 +1,2 @@
 
-Ruby on Rails Tutorial: пример приложения
+Ruby on Rails Tutorial: пример приложения!
